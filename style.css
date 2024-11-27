@@ -1,0 +1,61 @@
+.uB{
+    border: solid 1px green;
+    display: flex;
+    justify-content: center;
+}
+.uuB{
+    
+    width: 95%;
+}
+header{
+    background-color: rgb(103, 103, 189);
+    border-radius: 15px 15px 0 0;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+main{
+    background-color: rgb(100, 100, 117);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0 0 15px 15px;
+    
+}
+.underLine{
+    border-bottom: solid 2px maroon;    
+}
+input, textarea{
+   display: block;
+   width: 100%; 
+   border: 0px;
+   font-size: 25px;
+   border-radius: 5px;  
+   width: 99%;   
+   padding: 7px;
+}
+.inputs{
+  width: 90%;
+  margin: 30px auto 30px auto;
+  font-size: 20px;
+  background-color: aquamarine;
+  padding: 25px;
+  border-radius: 15px;
+}
+h1,h2{
+    width: 98%;
+    margin: auto;
+}
+h1{
+    margin-top: 30px;
+}
+label{
+  display: block;
+  margin-top: 30px;
+}
+.exit{
+    width: 98%;
+    margin: 10px auto 80px auto;
+    height: 30px;
+}
